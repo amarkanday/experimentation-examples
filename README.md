@@ -76,13 +76,6 @@ Even a small SRM can have significant impact on experiment conclusions. This dem
 - SRM can evolve over time, making early detection crucial
 - Proper correction methods can salvage valuable experiment data
 
-## Learn More
-
-For more information on Sample Ratio Mismatch, check out these resources:
-
-- [Diagnosing Sample Ratio Mismatch in Online Controlled Experiments](https://www.kdd.org/kdd2019/accepted-papers/view/diagnosing-sample-ratio-mismatch-in-online-controlled-experiments) (KDD 2019)
-- [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://experimentguide.com/) by Kohavi, Tang & Xu
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
