@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+.venv
+
+# Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Install logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE/Editor
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+sdist/
+node_modules/
