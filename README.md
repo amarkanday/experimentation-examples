@@ -96,10 +96,6 @@ These experimentation techniques help solve common challenges in A/B testing:
 - **Stepped Wedge Design**: Enables experimentation in situations where simultaneous rollout is impractical
 - **SRM Detection**: Ensures data quality and validity of experimental conclusions
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 These demonstrations were inspired by real-world experimentation challenges faced by companies running large-scale experimentation programs. The code and examples are for educational purposes only.
